@@ -27,12 +27,13 @@ We will evaluate the different skills:
 ## Exercice 2
 ### Case Study
 We want to understand a bit more about the images we display on the website. Hre are few questions we are wondering, but we would like to have more ideas:
-* Does every product have image?
-* Does every variant have an image?
-* Is the results page thumb image relevant? Is it the best we could use?
-* Does the images have an impact on the sales?
-* Don't hesitate to propose us other ...
-Elaborate a data project to answer one or many of this questions. There is no rule, no budget limit, no technology limit.
+* *Does every product have image?*
+* *Does every variant have an image?*
+* *Is the results page thumb image relevant? Is it the best we could use?*
+* *Does the images have an impact on the sales?*
+* *Don't hesitate to propose us other ...*
+
+**Elaborate a data project to answer one or many of this questions. There is no rule, no budget limit, no technology limit.**
 
 ## Exercice 3
 ### Sublimate a dataset
