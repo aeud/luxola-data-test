@@ -37,3 +37,5 @@ We want to understand a bit more about the images we display on the website. Her
 
 ## Exercice 3
 ### Sublimate a dataset
+
+**Download the [following dataset](https://github.com/aeud/luxola-data-test/blob/master/dataset/150123-dataset.csv), choose one or many indicator(s) to study, and propose a suitable visualization.**
