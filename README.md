@@ -29,9 +29,9 @@ We will evaluate the different skills:
 We want to understand a bit more about the images we display on the website. Here are few questions we are wondering: (and you can of course complete this list)
 * *Does every product have image?*
 * *Does every variant have an image?*
-* *Is the results page thumb image relevant? Is it the best we could use?*
-* *Does the images have an impact on the sales?*
-* *Don't hesitate to propose us other ...*
+* *Is the result page thumb images allways relevant? Is it the best one we could use?*
+* *Does the images have an impact on the sales / clicks / add to cart / ...?*
+* *Don't hesitate to propose other questions !*
 
 **Elaborate a data project to answer one or many of this questions. There is no rule, no budget limit, no technology limit.**
 
