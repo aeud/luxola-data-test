@@ -20,7 +20,7 @@ We will evaluate the different skills:
 	* Which term would describe you the best?
 2. Where / How long did you study data science?
 3. Can you recommend some tools to analyse / treat / vizualize? (programming language, software, SaaS, ...; be exhaustive and tell us why you chose them)
-4. Have a look on http://www.luxola.com/
+4. Have a look on [Luxola.com](http://www.luxola.com/)
 	* For you, what would be 10 VIKPIs (Very Important KPIs)?
 	* How would you follow them? Frequency, on which tool, comparaison with a previous period, ...
 
