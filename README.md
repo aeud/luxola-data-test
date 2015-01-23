@@ -26,7 +26,7 @@ We will evaluate the different skills:
 
 ## Exercice 2
 ### Case Study
-We want to understand a bit more about the images we display on the website. Hre are few questions we are wondering, but we would like to have more ideas:
+We want to understand a bit more about the images we display on the website. Here are few questions we are wondering: (and you can of course complete this list)
 * *Does every product have image?*
 * *Does every variant have an image?*
 * *Is the results page thumb image relevant? Is it the best we could use?*
