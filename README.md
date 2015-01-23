@@ -38,7 +38,7 @@ We want to understand a bit more about the images we display on the website. Her
 ## Exercice 3
 ### Sublimate a dataset
 
-**Download the [following dataset](https://github.com/aeud/luxola-data-test/blob/master/dataset/150123-bigquery.csv), choose one or many indicator(s) to study, and propose a suitable visualization.**
+**Download the [following dataset](https://raw.githubusercontent.com/aeud/luxola-data-test/master/dataset/150123-bigquery.json), choose one or many indicator(s) to study, and propose a suitable visualization.**
 
 You can use all the technologies you want (databases, programming languages, Tableau, Excel, ...). Your work must be commented. You can fork the repo and work directly on it if you prefer.
 
