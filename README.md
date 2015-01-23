@@ -41,3 +41,7 @@ We want to understand a bit more about the images we display on the website. Her
 **Download the [following dataset](https://github.com/aeud/luxola-data-test/blob/master/dataset/150123-dataset.csv), choose one or many indicator(s) to study, and propose a suitable visualization.**
 
 You can use all the technologies you want (databases, programming languages, Tableau, Excel, ...). Your work must be commented. You can fork the repo and work directly on it if you prefer.
+
+## Restitution
+
+Return your test to adrien.eudes@luxola.com, don't forget to add you spreadsheets, source, images, ... Use Dropbox or Drive if the files are too large.
