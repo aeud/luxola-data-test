@@ -10,7 +10,7 @@ We will evaluate the different skills:
 * Analizing data
 * Telling stories about the business
 * Imagining a way to make everyone in the company to understand what you discovered (vizualisation)
-* Advicing on what could be improved / changed / deeped
+* Advising on what could be improved / changed / deeped
 
 ## Exercice 1
 ### Questions about you, data, you & data
