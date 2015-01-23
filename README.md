@@ -13,7 +13,7 @@ We will evaluate the different skills:
 * Advising on what could be improved / changed / deeped
 
 ## Exercice 1
-### Questions about you, data, you & data
+### Questions
 1. What is your definition:
 	* of a data analyst?
 	* of a data scientist?
