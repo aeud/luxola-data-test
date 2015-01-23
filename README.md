@@ -44,4 +44,6 @@ You can use all the technologies you want (databases, programming languages, Tab
 
 ## Restitution
 
-Return your test to adrien.eudes@luxola.com, don't forget to add you spreadsheets, source, images, ... Use Dropbox or Drive if the files are too large.
+Return your test to adrien.eudes@luxola.com, don't forget to add you spreadsheets, source, images,...
+
+#Use Dropbox or Drive if the files are too large.#
