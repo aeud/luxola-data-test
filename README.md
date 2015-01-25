@@ -1,4 +1,4 @@
-# You have interests for our (data) team? Proove it!
+# You have interests for our (data) team? Prove it!
 This little test will help us to understand more about you, your knowledge in data science, you ability to make speaking data. You will find 3 exerices in this test, you are required to complete only 2 of them:
 * The first exercice is required
 * You can choose to complete either the second or the third exercice
