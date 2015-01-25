@@ -23,6 +23,7 @@ We will evaluate the different skills:
 4. Have a look on [Luxola.com](http://www.luxola.com/)
 	* For you, what would be 10 VIKPIs (Very Important KPIs)?
 	* How would you follow them? Frequency, on which tool, comparaison with a previous period, ...
+5. What's(re) the work(s) you're the most proud of in Data Science / Analysis ?
 
 ## Exercice 2
 ### Case Study
