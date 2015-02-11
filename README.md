@@ -24,6 +24,13 @@ We will evaluate the different skills:
 	* For you, what would be 10 VIKPIs (Very Important KPIs)?
 	* How would you follow them? Frequency, on which tool, comparaison with a previous period, ...
 5. What's(re) the work(s) you're the most proud of in Data Science / Analysis ?
+6. What's your level in Maths / Statistics / CS ?
+    * What's the n in Ln-regularization? Where and why would you choose L2 over L1? 
+    * What's the core intuitive difference between decision trees and random forests? What does it mean in practice? 
+    * Where would you use boosting, bagging or k-folds cross validation? What is the purpose of such methods? 
+    * What does high leverage mean and how do you cope with it? 
+    * What's the advantage of SVMs over splines?
+    * Why is the relational model called relational?
 
 ## Exercice 2
 ### Case Study
